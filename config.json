@@ -1,0 +1,17 @@
+{
+  "transport": {
+    "host": "host here",
+    "user": "user here",
+    "pass": "password here",
+    "port": 25
+  },
+  "users": {
+    "list": "mailing_list.xlsx"
+  },
+  "mail": {
+    "email": "your@email.com",
+    "bcc": "",
+    "subject": "Your subject",
+    "message": "Your message here. DO NOT USE DOUBLE QUOTES IN THE TEXT"
+  }
+}
