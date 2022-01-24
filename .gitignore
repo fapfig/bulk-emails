@@ -1,4 +1,5 @@
 .vscode
+
 resources
 node_modules
 logs/*.*
