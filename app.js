@@ -16,7 +16,7 @@ time = 5;
 listSize = 10244;
 // How many emails will be sent per batch? Maximum is 100.
 batchSize = 100;
-// Restart sending emails from this point.
+// Restart sending emails from number.
 restart = 0;
 
 // for testing purposes
